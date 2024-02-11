@@ -1,0 +1,19 @@
+generators
+coverage
+build
+dist
+# fixtures
+LICENSE
+README.md
+.editorconfig
+.eslintignore
+.gitattributes
+.gitignore
+.gitkeep
+.prettierignore
+*.ejs
+*.snap
+*.env
+env.*
+.env
+node_nodules
