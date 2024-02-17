@@ -29,7 +29,7 @@ app.use(express.static('public'));
 
 app.use(cookieParser());
 
-/// Router
+//  Router
 
 import userRouter from './routes/user.route.js';
 
